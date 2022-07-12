@@ -16,12 +16,70 @@ class Car(object):
         self.__meas_choice = ConversionUtils.IMPERIAL
         self.__metric_choice = ConversionUtils.MPG
 
+    def get_brand(self):
+        return self.__brand
+
+    def get_model(self):
+        return self.__model
+
+    def get_drive(self):
+        return self.__drive
+
+    def get_fuel(self):
+        return self.__fuel
+
+    def get_stnd(self):
+        return self.__stnd
+
+    def set_meas_choice(self, meas_choice):
+        self.__meas_choice = meas_choice
+
+    def set_metric_choice(self, metric_choice):
+        self.__metric_choice = metric_choice
+
+    def get_city(self):
+        if self.__meas_choice == ConversionUtils.IMPERIAL:
+            return self.__city
+        else:
+            if self.__metric_choice == ConversionUtils.L_PER_100KM:
+                return ConversionUtils.convert_mpg_to_l100km(self.__city)
+            else:
+                return ConversionUtils.convert_mpg_to_lkm(self.__city)
+
+    def set_city(self, city):
+        if self.__meas_choice == ConversionUtils.IMPERIAL:
+            self.__city = city
+        else:
+            if self.__metric_choice == ConversionUtils.L_PER_100KM:
+                self.__city = ConversionUtils.convert_l100km_to_mpg(city)
+            else:
+                self.__city = ConversionUtils.convert_lkm_to_mpg(city)
+
+    def get_hwy(self):
+        if self.__meas_choice == ConversionUtils.IMPERIAL:
+            return self.__hwy
+        else:
+            if self.__metric_choice == ConversionUtils.L_PER_100KM:
+                return ConversionUtils.convert_mpg_to_l100km(self.__hwy)
+            else:
+                return ConversionUtils.convert_mpg_to_lkm(self.__hwy)
+
+    def set_hwy(self, hwy):
+        if self.__meas_choice == ConversionUtils.IMPERIAL:
+            self.__hwy = hwy
+        else:
+            if self.__metric_choice == ConversionUtils.L_PER_100KM:
+                self.__hwy = ConversionUtils.convert_l100km_to_mpg(hwy)
+            else:
+                self.__hwy = ConversionUtils.convert_lkm_to_mpg(hwy)
+
     def __repr__(self) -> str:
         return "'" + self.__brand + ", " + self.__model + "," + self.__drive + \
                "," + self.__fuel + "," + self.__stnd + \
-               ", Fuel efficiency: City " + str(self.__city) + \
-               "mpg and highway " + str(self.__hwy) + "mpg'"
-
+               ", Fuel efficiency: City " + str(round(self.get_city(), 2)) + \
+               ConversionUtils.get_suffix(self.__metric_choice) + \
+               " and highway " + str(round(self.get_hwy(), 2)) + \
+               ConversionUtils.get_suffix(self.__metric_choice) + "'"
 
 def read_vehicles() -> Dict[str, List[Car]]:
     """
