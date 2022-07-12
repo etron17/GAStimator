@@ -81,7 +81,7 @@ class Car(object):
                " and highway " + str(round(self.get_hwy(), 2)) + \
                ConversionUtils.get_suffix(self.__metric_choice) + "'"
 
-def read_vehicles() -> Dict[str, List[Car]]:
+def read_cars() -> Dict[str, List[Car]]:
     """
     Read data from database and return as dictionary, the key is car producer,
     values are cars from that producer
