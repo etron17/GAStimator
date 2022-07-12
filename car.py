@@ -1,5 +1,6 @@
 import mysql.connector
 from typing import Dict, List
+from conversionutils import ConversionUtils
 
 
 class Car(object):
@@ -12,6 +13,8 @@ class Car(object):
         self.__stnd = stnd
         self.__city = city
         self.__hwy = hwy
+        self.__meas_choice = ConversionUtils.IMPERIAL
+        self.__metric_choice = ConversionUtils.MPG
 
     def __repr__(self) -> str:
         return "'" + self.__brand + ", " + self.__model + "," + self.__drive + \
