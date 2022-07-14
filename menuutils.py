@@ -1,16 +1,17 @@
 from typing import List
 
+
+# Utility class
 class MenuUtils(object):
 
     @staticmethod
     def menu_choice(prompt: str, choices: List[str]) -> int:
         """
-        Display menu and return user's choice
+        Display menu and return choice
         :param prompt: Prompt
-        :param choice: List of choices
+        :param choices: List of choices
         :return: Correct choice
         """
-
         # Display menu
         num_of_choices = len(choices)
         print(prompt)
@@ -21,10 +22,8 @@ class MenuUtils(object):
 
     @staticmethod
     def choose_menu_item(num_of_choices):
-        # Print number of car model
-        print ("Please choose from 1 to", num_of_choices)
-
         # Select proper choice
+        print("Please choose from 1 to", num_of_choices)
         choice = 1
         done = False
         while not done:
@@ -45,7 +44,7 @@ class MenuUtils(object):
         Display prompt and return choice
         :param prompt: Prompt
         :param num_of_choices: Max num of choice
-        :return: Proper choice
+        :return: Correct choice
         """
         # Display menu
         print(prompt)
