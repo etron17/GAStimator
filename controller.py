@@ -16,7 +16,7 @@ class Controller(object):
         """
         f1 = Figlet(font='standard')
         print(colored(f1.renderText('Welcome'), 'green'))
-        print(colored(f1.renderText('GASmart Estimator'), 'green'))
+        print(colored(f1.renderText('GAStimator'), 'green'))
         cars = Car.read_cars()
         view = View()
         meas_choice = view.ask_meas_type()
