@@ -1,3 +1,4 @@
+# Utility class
 class ConversionUtils(object):
     IMPERIAL = 1
     METRICS = 2
@@ -8,52 +9,51 @@ class ConversionUtils(object):
     L_PER_KM = 2
     L_PER_KM_SUFFIX = "l/km"
 
-    # Canadian unit
     GALLON_VOLUME = 4.546
     MAGIC_NUMBER = 282.481
 
     @staticmethod
     def convert_mpg_to_l100km(mpg: float) -> float:
         """
-        Convert MPG to l/100km
+        Convert MPG to L/100 km
         :param mpg: MPG value
-        :return: l/100km value
+        :return: L/100 km value
         """
         return round(ConversionUtils.MAGIC_NUMBER / mpg, 2)
 
     @staticmethod
     def convert_l100km_to_mpg(l100km: float) -> float:
         """
-        Convert l/100km to MPG
-        :param l100km: l/100km value
-        :return: MPG value
+        Convert L/100 km to MPG
+        :param mpg: L/100km value
+        :return:  MPG value
         """
         return round(ConversionUtils.MAGIC_NUMBER / l100km, 2)
 
     @staticmethod
     def convert_mpg_to_lkm(mpg: float) -> float:
         """
-        Convert MPG to l/km
+        Convert MPG to L/1 km
         :param mpg: MPG value
-        :return: l/km value
+        :return: L/1 km value
         """
-        return round(ConversionUtils.MAGIC_NUMBER / (mpg * 10), 5)
+        return round(ConversionUtils.MAGIC_NUMBER / (mpg * 100), 5)
 
     @staticmethod
     def convert_lkm_to_mpg(lkm: float) -> float:
         """
-        Convert l/km to MPG
-        :param lkm: l/km value
+        Convert L/1 km to MPG
+        :param mpg: L/1 km value
         :return: MPG value
         """
-        return round(ConversionUtils.MAGIC_NUMBER / (lkm * 10), 2)
+        return round(ConversionUtils.MAGIC_NUMBER / (lkm * 100), 2)
 
     @staticmethod
     def convert_m_to_km(meters: float) -> float:
         """
         Convert meters to kms
-        :param meters: Meters value
-        :return: Kms value
+        :param meters: Meters
+        :return: Kms
         """
         return round(meters / 1000, 2)
 
@@ -61,11 +61,12 @@ class ConversionUtils(object):
     def convert_m_to_miles(meters: float) -> float:
         """
         Convert meters to miles
-        :param meters: Meters value
-        :return: Miles value
+        :param meters: Meters
+        :return: Miles
         """
         return round(meters / 1609, 2)
 
+    # Decorator pattern (lines 69-99)
     @staticmethod
     def get_suffix(metric_choice: int) -> str:
         """
@@ -73,12 +74,27 @@ class ConversionUtils(object):
         :param metric_choice: Metric choice
         :return: Suffix
         """
+        method = ConversionUtils.get_empty_suffix()
         if metric_choice == ConversionUtils.MPG:
-            return ConversionUtils.MPG_SUFFIX
+            method = ConversionUtils.get_mpg_suffix()
         elif metric_choice == ConversionUtils.L_PER_100KM:
-            return ConversionUtils.L_PER_100KM_SUFFIX
+            method = ConversionUtils.get_l_100km_suffix()
         elif metric_choice == ConversionUtils.L_PER_KM:
-            return ConversionUtils.L_PER_KM_SUFFIX
-        else:
-            return ""
+            method = ConversionUtils.get_l_km_suffix()
+        return method
 
+    @staticmethod
+    def get_mpg_suffix():
+        return ConversionUtils.MPG_SUFFIX
+
+    @staticmethod
+    def get_l_100km_suffix():
+        return ConversionUtils.L_PER_100KM_SUFFIX
+
+    @staticmethod
+    def get_l_km_suffix():
+        return ConversionUtils.L_PER_KM_SUFFIX
+
+    @staticmethod
+    def get_empty_suffix():
+        return ""
