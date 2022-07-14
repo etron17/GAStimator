@@ -1,8 +1,8 @@
 import mysql.connector
-from typing import Dict, List
 from conversionutils import ConversionUtils
 
 
+# MVC pattern - model part
 class Car(object):
     def __init__(self, brand, model, drive, fuel, stnd, city, hwy) -> None:
         super().__init__()
@@ -81,34 +81,34 @@ class Car(object):
                " and highway " + str(round(self.get_hwy(), 2)) + \
                ConversionUtils.get_suffix(self.__metric_choice) + "'"
 
-def read_cars() -> Dict[str, List[Car]]:
-    """
-    Read data from database and return as dictionary, the key is car producer,
-    values are cars from that producer
-    :return: Dictionary
-    """
-    cars: Dict[str, List[Car]] = {}
+    @staticmethod
+    def read_cars() -> dict:
+        """
+        Read data from database and return as dictionary, key is car producer,
+        values are cars from that producer
+        :return: Dictionary
+        """
+        cars = {}
 
-    # Connect to database
-    mydb = mysql.connector.connect(
-        host="YOUR KEY",
-        user="YOUR KEY",
-        passwd="YOUR KEY",
-        database="YOUR KEY"
-    )
+        # Connect to database
+        mydb = mysql.connector.connect(
+            host="bekizp7iap68dtih2syo-mysql.services.clever-cloud.com",
+            user="ua0jusp3hzo6qtia",
+            passwd="U2UKU8HJHO0oOmoDY76Y",
+            database="bekizp7iap68dtih2syo"
+        )
 
-    mycursor = mydb.cursor()
-    mycursor.execute("SELECT * FROM vehicledb")
-    myresult = mycursor.fetchall()
+        # Get all cars from database
+        mycursor = mydb.cursor()
+        mycursor.execute("SELECT * FROM cardb")
+        myresult = mycursor.fetchall()
 
-    print(myresult)
+        # Fill dictionary
+        for row in myresult:
+            brand = row[0]
+            car = Car(brand, row[1], row[2], row[3], row[4], row[5], row[6])
+            if brand not in cars:
+                cars[brand] = []
+            cars[brand].append(car)
 
-    # Fill the dictionary
-    for row in myresult:
-        brand = row[0]
-        car = Car(brand, row[1], row[2], row[3], row[4], row[5], row[6])
-        if brand not in cars:
-            cars[brand] = []
-        cars[brand].append(car)
-
-    return cars
+        return cars
