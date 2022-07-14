@@ -2,20 +2,26 @@ import requests
 import json
 from typing import Dict
 
-def get_prices() -> Dict:
+# MVC pattern - model part
+class Gas(object):
 
-    """
-    Get gas prices for Canada
-    :return: Dictionary of gas prices per province
-    """
+    def __init__(self) -> None:
+        super().__init__()
 
-    url = "YOUR URL"
+    def get_prices(self) -> Dict:
 
-    headers = {
-        "X-RapidAPI-Key": "YOUR KEY",
-        "X-RapidAPI-Host": "YOUR HOST"
-    }
+        """
+        Get gas prices for Canada
+        :return: Dictionary of gas prices per province
+        """
 
-    response = requests.request("GET", url, headers=headers)
-    gas_dict = json.loads(response.text)
-    return gas_dict["prices"]
+        url = "YOUR URL"
+
+        headers = {
+            "X-RapidAPI-Key": "YOUR KEY",
+            "X-RapidAPI-Host": "YOUR HOST"
+        }
+
+        response = requests.request("GET", url, headers=headers)
+        gas_dict = json.loads(response.text)
+        return gas_dict["prices"]
