@@ -1,6 +1,5 @@
 from pyfiglet import Figlet
 from termcolor import colored
-
 from car import Car
 from view import View
 

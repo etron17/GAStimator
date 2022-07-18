@@ -2,6 +2,7 @@ import requests
 import json
 from typing import Dict
 
+
 # MVC pattern - model part
 class Gas(object):
 

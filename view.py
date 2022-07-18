@@ -1,5 +1,4 @@
 from beautifultable import BeautifulTable
-
 from conversionutils import ConversionUtils
 from menuutils import MenuUtils
 from gas import Gas
@@ -15,47 +14,32 @@ class View(object):
                       'SK']
     YES_NO = ["Yes", "No"]
 
-    def find_price(self, gas_prices, prov: int) -> float:
-        """
-        Find price for province
-        :param gas_prices: Gas prices for all provinces
-        :param prov: Province to find price for
-        :return: Price of gas for province
-        """
-        view = View()
-        for entry in gas_prices:
-            if entry['province'] == view.PROVINCES[prov - 1]:
-                return entry['price']
-
-        return 0
-
-    def ask_metric_choice(self, meas_choice):
-        """
-        For metric ask for L/100km or L/km
-        :return: Mertic choice
-        """
-        metric_choice = ConversionUtils.MPG
-        if meas_choice == ConversionUtils.METRICS:
-            metric_types = [ConversionUtils.L_PER_100KM_SUFFIX,
-                            ConversionUtils.L_PER_KM_SUFFIX]
-            metric_choice = MenuUtils.menu_choice("Select metric mileage type",
-                                                  metric_types)
-            print(
-                f"We're using {metric_types[metric_choice - 1]} measurement units")
-        else:
-            print("We're using 'MPG' measurement units")
-        return metric_choice
-
     def ask_meas_type(self):
         """
         Ask for measurement types
         :return: measurement types
         """
         meas_types = ["Imperial", "Metric"]
-        meas_choice = MenuUtils.menu_choice("Select measurement type",
+        meas_choice = MenuUtils.menu_choice("\nSelect measurement type",
                                             meas_types)
-        print(meas_choice)
         return meas_choice
+
+    def ask_metric_choice(self, meas_choice):
+        """
+        For metric ask for L/100km or L/km
+        :return: Metric choice
+        """
+        metric_choice = ConversionUtils.MPG
+        if meas_choice == ConversionUtils.METRICS:
+            metric_types = [ConversionUtils.L_PER_100KM_SUFFIX,
+                            ConversionUtils.L_PER_KM_SUFFIX]
+            metric_choice = MenuUtils.menu_choice("\nSelect metric mileage type",
+                                                  metric_types)
+            print(
+                f"\nYou're using {metric_types[metric_choice - 1]} measurement units")
+        else:
+            print("\nYou're using 'MPG' measurement units")
+        return metric_choice
 
     def ask_for_brand(self, cars):
         """
@@ -77,7 +61,7 @@ class View(object):
     def print_models_and_choose(self, meas_choice, metric_choice, models):
         """
         Print models for that brand
-        :return:
+        :return: Model of car
         """
         idx = 1
         model_table = BeautifulTable()
@@ -101,23 +85,39 @@ class View(object):
 
     def edit_fuel_efficiency(self, model):
         edit_choice = MenuUtils.menu_choice(
-            "Do you want to edit fuel efficiency?", self.YES_NO)
+            "\nDo you want to edit fuel efficiency?", self.YES_NO)
         if edit_choice == 1:
-            city = float(input("Please enter fuel efficiency for city"))
-            hwy = float(input("Please enter fuel efficiency for hwy"))
+            city = float(input("\nPlease enter fuel efficiency for city drive: "))
+            hwy = float(input("\nPlease enter fuel efficiency for hwy drive: "))
 
             model.set_city(city)
             model.set_hwy(hwy)
-            print("Your selection updated to:", model)
+            print("\nYour selection updated to:", model)
+
+
+    def find_price(self, gas_prices, prov: int) -> float:
+        """
+        Find price for province
+        :param gas_prices: Gas prices for all provinces
+        :param prov: Province to find price for
+        :return: Price of gas for province
+        """
+        view = View()
+        for entry in gas_prices:
+            if entry['province'] == view.PROVINCES[prov - 1]:
+                return entry['price']
+
+        return 0
+
 
     def calculate_price(self, meas_choice, metric_choice, model):
         # Get departure and destination
-        departure = input("Enter departure city: ")
+        departure = input("\nEnter departure city: ")
         departure_prov = MenuUtils.menu_choice(
-            "Please choose departure's province", self.PROVINCES)
-        destination = input("Enter destination city: ")
+            "\nPlease choose departure's province", self.PROVINCES)
+        destination = input("\nEnter destination city: ")
         destination_prov = MenuUtils.menu_choice(
-            "Please choose destination's province", self.PROVINCES)
+            "\nPlease choose destination's province", self.PROVINCES)
         # Find travel info
         travel_info = Routing.find_dest(
             departure + "," + self.PROVINCES_CODE[departure_prov - 1],
@@ -133,7 +133,7 @@ class View(object):
             distance = f"{km} km"
         print(f"\nThe total travel time from {departure} to {destination} is",
               travel_info[0])
-        print("Distance is", distance)
+        print("\nDistance is", distance)
         # Get gas prices
         gas = Gas()
         gas_prices = gas.get_prices()
@@ -141,13 +141,13 @@ class View(object):
         departure_price = self.find_price(gas_prices, departure_prov)
         destination_price = self.find_price(gas_prices, destination_prov)
         median_price = round((departure_price + destination_price) / 2, 2)
-        print("Gas price is $", median_price)
+        print("\nCurrent gas price is $", median_price)
         # Calculate total cost of gas
         amount_of_gas = 0
         cost = 0
         if meas_choice == ConversionUtils.IMPERIAL:
             amount_of_gas = round(miles / model.get_hwy(), 2)
-            print("Amount of gas is", amount_of_gas, "gallons")
+            print("\nAmount of gas is needed", amount_of_gas, "gallons")
             cost = median_price * amount_of_gas * ConversionUtils.GALLON_VOLUME
         else:
             if metric_choice == ConversionUtils.L_PER_100KM:
@@ -155,13 +155,15 @@ class View(object):
             else:
                 amount_of_gas = round(km * model.get_hwy(), 2)
             cost = median_price * amount_of_gas
-            print("Amount of gas is", amount_of_gas, "liters")
-        print("Cost of gas is $" + str(round(cost, 2)))
+            print("\nAmount of gas is needed", amount_of_gas, "liters")
+        print("\nTotal cost of gas is $" + str(round(cost, 2)))
         # Check about bills splitting
         split_menu = ["Yes", "No"]
-        bill_split = MenuUtils.menu_choice("Do you want to split the bill?",
+        bill_split = MenuUtils.menu_choice("\nDo you want to split the bill?",
                                            split_menu)
         if bill_split == 1:
-            num_of_riders = int(input("How many people share the ride?"))
+            num_of_riders = int(input("\nHow many people share the ride: "))
             price_per_person = round(cost / num_of_riders, 2)
-            print("Price per person is $" + str(price_per_person))
+            print("\nPrice per person is $" + str(price_per_person))
+        else:
+            print("\nTotal cost of gas is $" + str(round(cost, 2)))
