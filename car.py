@@ -92,10 +92,10 @@ class Car(object):
 
         # Connect to database
         mydb = mysql.connector.connect(
-            host="bekizp7iap68dtih2syo-mysql.services.clever-cloud.com",
-            user="ua0jusp3hzo6qtia",
-            passwd="U2UKU8HJHO0oOmoDY76Y",
-            database="bekizp7iap68dtih2syo"
+            host="{YOUR-HOST}",
+            user="{YOUR-USER}",
+            passwd="{YOUR-PASSWD}",
+            database="{YOUR-DATABASE}"
         )
 
         # Get all cars from database
