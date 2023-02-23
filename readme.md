@@ -55,9 +55,9 @@ Triggering pyspark – Tranforming CSV to parque
 
 ***4. Create EMR***
 
-***5. Create docker-compose-CeleryExecutor.yml on EC2 Docker***
+***5. Create emr_job_submission.py on EC2 Docker***
 
-***6. Edit docker-compose-CeleryExecutor.yml***
+***6. Edit [emr_job_submission.py](https://github.com/etron17/GAStimator/blob/master/dags/emr_job_submission.py)***
 
 ***7. Trigger Lambda***
 
