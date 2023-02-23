@@ -1,4 +1,3 @@
-pipeline_step_loader.py
 from functools import wraps
 from importlib import import_module
 from string import capwords
