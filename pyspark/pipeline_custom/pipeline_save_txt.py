@@ -1,4 +1,3 @@
-pipeline_save_txt.py
 from pyspark.sql import functions as f
 from pipeline_step.pipeline_step import PipelineStep
 
