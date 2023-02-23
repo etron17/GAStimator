@@ -1,4 +1,3 @@
-pipeline_step.py
 import abc
 
 class PipelineStep(object):
