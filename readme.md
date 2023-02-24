@@ -61,7 +61,8 @@ Triggering pyspark – Tranforming CSV to parque
 
 ***7. Trigger Lambda***
 
-![2345](https://user-images.githubusercontent.com/90226898/220801969-8e6643fe-c01b-4d33-bb57-597a9c946983.png)
+[lambda.py](https://github.com/etron17/GAStimator/blob/master/lambda/lambda.py)
+<img width="1331" alt="Screen Shot 2023-02-24 at 4 26 58 PM" src="https://user-images.githubusercontent.com/90226898/221296329-ef8babca-67eb-4e6c-bfc9-d7ae585e6f31.png">
 
 ***8. Run Airflow***
 
