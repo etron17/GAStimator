@@ -22,10 +22,31 @@ The data used for this project was collected from multiple sources, including go
 
 ## Workflow Diagram
 
-
+At a high level, the workflow diagram for this project is illustrated below.
 
 ![Screen Shot 2023-02-22 at 6 33 38 PM](https://user-images.githubusercontent.com/90226898/220787521-862b77fd-5e8c-490b-8e17-0e2a25ce76e8.png)
 
+1. Collecting data from multiple sources:
+Data is collected from various sources and stored in a landing zone S3 bucket.
+
+2. Triggering an event notification to Lambda function:
+Once data is stored in the S3 bucket, an event notification is triggered to a Lambda function.
+
+3. Triggering Airflow:
+The Lambda function triggers Airflow dags.
+
+4. Running PySpark code:
+Airflow runs PySpark code, which is used to transform the data into a more usable format. In this case, the PySpark code converts a CSV file to a Parquet format.
+
+5. Storing Parquet file back to S3 bucket:
+Once the data is transformed to a Parquet file, it stores back to the S3 bucket.
+
+6. Creating a table schema using Glue:
+In this step, we will create a crawler. The crawler will catalog all files in the specified S3 bucket and prefix. All the files should have the same schema. In Glue crawler terminology the file format is known as a classifier. The crawler identifies the most common classifiers automatically including CSV, json and parquet. Our sample file is in the parquet format and will be recognized automatically.
+
+7. Configure AWS Glue
+
+8. Connect Athena to Apache Superset:
 
 ## Pipeline Design
 <img width="307" alt="P2icture1" src="https://user-images.githubusercontent.com/90226898/220788861-770fbc98-65d6-4422-8b72-ef65b9c4a19f.png">
