@@ -13,7 +13,7 @@ The project is structured into the following main components:
 
 ## Data Collection and Cleaning
 
-The data used for this project was collected from multiple sources, including government websites and online open data sources. The data was cleaned and processed to ensure its accuracy and consistency. The cleaning process involved removing any missing or duplicate data and standardizing the data format.   
+The [data](https://github.com/etron17/GAStimator/tree/master/data) used for this project was collected from multiple sources, including government websites and online open data sources. The data was cleaned and processed to ensure its accuracy and consistency. The cleaning process involved removing any missing or duplicate data and standardizing the data format.   
   - [Cities in Canada with Lat Long](https://simplemaps.com/data/canada-cities)
   - [Crude Oil WTI](https://ca.investing.com/commodities/crude-oil-historical-data)
   - [Canada historical gas price](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810000101&pickMembers%5B0%5D=2.2&cubeTimeFrame.startMonth=01&cubeTimeFrame.startYear=2018&cubeTimeFrame.endMonth=12&cubeTimeFrame.endYear=2022&referencePeriods=20180101%2C20221201)
