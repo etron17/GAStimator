@@ -86,4 +86,8 @@ Triggering pyspark – Tranforming CSV to parque
  https://hub.docker.com/r/apache/superset
 
 ## Results and Visualization
-These visualizations provided insights into the changes in gas prices in major cities in Canada before and after the COVID-19 pandemic. The results showed that there were significant changes in gas prices in many cities, which were likely due to the impact of the pandemic on the economy.
+The COVID-19 pandemic has significantly impacted gas prices in major cities in Canada, with a substantial decline observed in the first half of 2020. The recovery of gas prices in the latter half of the year indicates a gradual return to normalcy. Comparing the gas price data with the Crude Oil WTI data highlights the significant relationship between the two variables, providing further insights into the impact of the pandemic on the oil and gas industry. The results also show that other factors, such as weather and geopolitical events, influenced gas prices.
+![Screen Shot 2023-02-25 at 9 34 34 AM](https://user-images.githubusercontent.com/90226898/221362630-4571bedc-e0cf-46ce-b618-61c9c9f7d307.png)
+
+
+
