@@ -1,0 +1,1081 @@
+,City,Province,Price,Date
+1,St. John's,Newfoundland and Labrador,120.3,Jan-2018
+2,Charlottetown and Summerside,Prince Edward Island,115.3,Jan-2018
+3,Halifax,Nova Scotia,115.2,Jan-2018
+4,Saint John,New Brunswick,114.1,Jan-2018
+5,Québec,Quebec,118.8,Jan-2018
+6,Montréal,Quebec,127.6,Jan-2018
+7,Ottawa,Ontario,124.4,Jan-2018
+8,Toronto,Ontario,124.5,Jan-2018
+9,Thunder Bay,Ontario,123.9,Jan-2018
+10,Winnipeg,Manitoba,107.0,Jan-2018
+11,Regina,Saskatchewan,105.9,Jan-2018
+12,Saskatoon,Saskatchewan,107.4,Jan-2018
+13,Edmonton,Alberta,107.5,Jan-2018
+14,Calgary,Alberta,112.1,Jan-2018
+15,Vancouver,British Columbia,141.7,Jan-2018
+16,Victoria,British Columbia,129.6,Jan-2018
+17,Whitehorse,Yukon,121.4,Jan-2018
+18,Yellowknife,Northwest Territories,123.1,Jan-2018
+20,St. John's,Newfoundland and Labrador,121.8,Feb-2018
+21,Charlottetown and Summerside,Prince Edward Island,115.5,Feb-2018
+22,Halifax,Nova Scotia,114.1,Feb-2018
+23,Saint John,New Brunswick,113.9,Feb-2018
+24,Québec,Quebec,119.3,Feb-2018
+25,Montréal,Quebec,127.5,Feb-2018
+26,Ottawa,Ontario,119.6,Feb-2018
+27,Toronto,Ontario,123.6,Feb-2018
+28,Thunder Bay,Ontario,122.7,Feb-2018
+29,Winnipeg,Manitoba,104.2,Feb-2018
+30,Regina,Saskatchewan,103.5,Feb-2018
+31,Saskatoon,Saskatchewan,103.5,Feb-2018
+32,Edmonton,Alberta,104.0,Feb-2018
+33,Calgary,Alberta,110.6,Feb-2018
+34,Vancouver,British Columbia,144.5,Feb-2018
+35,Victoria,British Columbia,134.9,Feb-2018
+36,Whitehorse,Yukon,121.4,Feb-2018
+37,Yellowknife,Northwest Territories,122.9,Feb-2018
+39,St. John's,Newfoundland and Labrador,122.1,Mar-2018
+40,Charlottetown and Summerside,Prince Edward Island,116.9,Mar-2018
+41,Halifax,Nova Scotia,114.0,Mar-2018
+42,Saint John,New Brunswick,113.9,Mar-2018
+43,Québec,Quebec,123.4,Mar-2018
+44,Montréal,Quebec,130.0,Mar-2018
+45,Ottawa,Ontario,125.8,Mar-2018
+46,Toronto,Ontario,126.1,Mar-2018
+47,Thunder Bay,Ontario,123.6,Mar-2018
+48,Winnipeg,Manitoba,106.9,Mar-2018
+49,Regina,Saskatchewan,108.1,Mar-2018
+50,Saskatoon,Saskatchewan,109.4,Mar-2018
+51,Edmonton,Alberta,111.3,Mar-2018
+52,Calgary,Alberta,115.3,Mar-2018
+53,Vancouver,British Columbia,151.4,Mar-2018
+54,Victoria,British Columbia,143.2,Mar-2018
+55,Whitehorse,Yukon,121.4,Mar-2018
+56,Yellowknife,Northwest Territories,122.9,Mar-2018
+58,St. John's,Newfoundland and Labrador,131.0,Apr-2018
+59,Charlottetown and Summerside,Prince Edward Island,123.5,Apr-2018
+60,Halifax,Nova Scotia,124.2,Apr-2018
+61,Saint John,New Brunswick,122.9,Apr-2018
+62,Québec,Quebec,131.7,Apr-2018
+63,Montréal,Quebec,137.9,Apr-2018
+64,Ottawa,Ontario,133.6,Apr-2018
+65,Toronto,Ontario,133.7,Apr-2018
+66,Thunder Bay,Ontario,135.4,Apr-2018
+67,Winnipeg,Manitoba,121.1,Apr-2018
+68,Regina,Saskatchewan,116.9,Apr-2018
+69,Saskatoon,Saskatchewan,117.6,Apr-2018
+70,Edmonton,Alberta,122.5,Apr-2018
+71,Calgary,Alberta,125.2,Apr-2018
+72,Vancouver,British Columbia,155.1,Apr-2018
+73,Victoria,British Columbia,147.2,Apr-2018
+74,Whitehorse,Yukon,130.9,Apr-2018
+75,Yellowknife,Northwest Territories,128.9,Apr-2018
+77,St. John's,Newfoundland and Labrador,137.1,May-2018
+78,Charlottetown and Summerside,Prince Edward Island,131.3,May-2018
+79,Halifax,Nova Scotia,130.4,May-2018
+80,Saint John,New Brunswick,128.9,May-2018
+81,Québec,Quebec,136.6,May-2018
+82,Montréal,Quebec,142.7,May-2018
+83,Ottawa,Ontario,136.9,May-2018
+84,Toronto,Ontario,137.3,May-2018
+85,Thunder Bay,Ontario,141.7,May-2018
+86,Winnipeg,Manitoba,125.1,May-2018
+87,Regina,Saskatchewan,123.7,May-2018
+88,Saskatoon,Saskatchewan,123.1,May-2018
+89,Edmonton,Alberta,127.5,May-2018
+90,Calgary,Alberta,129.6,May-2018
+91,Vancouver,British Columbia,159.9,May-2018
+92,Victoria,British Columbia,153.9,May-2018
+93,Whitehorse,Yukon,142.4,May-2018
+94,Yellowknife,Northwest Territories,137.2,May-2018
+96,St. John's,Newfoundland and Labrador,134.3,Jun-2018
+97,Charlottetown and Summerside,Prince Edward Island,130.0,Jun-2018
+98,Halifax,Nova Scotia,125.5,Jun-2018
+99,Saint John,New Brunswick,125.7,Jun-2018
+100,Québec,Quebec,131.7,Jun-2018
+101,Montréal,Quebec,139.7,Jun-2018
+102,Ottawa,Ontario,128.2,Jun-2018
+103,Toronto,Ontario,134.6,Jun-2018
+104,Thunder Bay,Ontario,140.6,Jun-2018
+105,Winnipeg,Manitoba,125.3,Jun-2018
+106,Regina,Saskatchewan,122.3,Jun-2018
+107,Saskatoon,Saskatchewan,122.4,Jun-2018
+108,Edmonton,Alberta,124.4,Jun-2018
+109,Calgary,Alberta,127.1,Jun-2018
+110,Vancouver,British Columbia,154.3,Jun-2018
+111,Victoria,British Columbia,150.1,Jun-2018
+112,Whitehorse,Yukon,144.9,Jun-2018
+113,Yellowknife,Northwest Territories,141.7,Jun-2018
+115,St. John's,Newfoundland and Labrador,134.9,Jul-2018
+116,Charlottetown and Summerside,Prince Edward Island,128.9,Jul-2018
+117,Halifax,Nova Scotia,126.2,Jul-2018
+118,Saint John,New Brunswick,126.9,Jul-2018
+119,Québec,Quebec,130.6,Jul-2018
+120,Montréal,Quebec,137.6,Jul-2018
+121,Ottawa,Ontario,129.5,Jul-2018
+122,Toronto,Ontario,135.6,Jul-2018
+123,Thunder Bay,Ontario,144.5,Jul-2018
+124,Winnipeg,Manitoba,123.4,Jul-2018
+125,Regina,Saskatchewan,123.4,Jul-2018
+126,Saskatoon,Saskatchewan,125.8,Jul-2018
+127,Edmonton,Alberta,131.0,Jul-2018
+128,Calgary,Alberta,131.4,Jul-2018
+129,Vancouver,British Columbia,155.7,Jul-2018
+130,Victoria,British Columbia,150.0,Jul-2018
+131,Whitehorse,Yukon,144.9,Jul-2018
+132,Yellowknife,Northwest Territories,144.4,Jul-2018
+134,St. John's,Newfoundland and Labrador,132.5,Aug-2018
+135,Charlottetown and Summerside,Prince Edward Island,126.9,Aug-2018
+136,Halifax,Nova Scotia,124.0,Aug-2018
+137,Saint John,New Brunswick,126.5,Aug-2018
+138,Québec,Quebec,131.1,Aug-2018
+139,Montréal,Quebec,138.3,Aug-2018
+140,Ottawa,Ontario,127.4,Aug-2018
+141,Toronto,Ontario,133.6,Aug-2018
+142,Thunder Bay,Ontario,145.3,Aug-2018
+143,Winnipeg,Manitoba,118.0,Aug-2018
+144,Regina,Saskatchewan,121.4,Aug-2018
+145,Saskatoon,Saskatchewan,122.9,Aug-2018
+146,Edmonton,Alberta,126.2,Aug-2018
+147,Calgary,Alberta,129.7,Aug-2018
+148,Vancouver,British Columbia,150.3,Aug-2018
+149,Victoria,British Columbia,144.5,Aug-2018
+150,Whitehorse,Yukon,144.9,Aug-2018
+151,Yellowknife,Northwest Territories,145.6,Aug-2018
+153,St. John's,Newfoundland and Labrador,131.2,Sep-2018
+154,Charlottetown and Summerside,Prince Edward Island,126.5,Sep-2018
+155,Halifax,Nova Scotia,123.5,Sep-2018
+156,Saint John,New Brunswick,127.0,Sep-2018
+157,Québec,Quebec,132.0,Sep-2018
+158,Montréal,Quebec,140.0,Sep-2018
+159,Ottawa,Ontario,123.1,Sep-2018
+160,Toronto,Ontario,129.3,Sep-2018
+161,Thunder Bay,Ontario,144.9,Sep-2018
+162,Winnipeg,Manitoba,116.6,Sep-2018
+163,Regina,Saskatchewan,120.6,Sep-2018
+164,Saskatoon,Saskatchewan,121.8,Sep-2018
+165,Edmonton,Alberta,126.6,Sep-2018
+166,Calgary,Alberta,129.9,Sep-2018
+167,Vancouver,British Columbia,151.9,Sep-2018
+168,Victoria,British Columbia,142.7,Sep-2018
+169,Whitehorse,Yukon,144.1,Sep-2018
+170,Yellowknife,Northwest Territories,146.4,Sep-2018
+172,St. John's,Newfoundland and Labrador,131.2,Oct-2018
+173,Charlottetown and Summerside,Prince Edward Island,124.5,Oct-2018
+174,Halifax,Nova Scotia,122.6,Oct-2018
+175,Saint John,New Brunswick,126.2,Oct-2018
+176,Québec,Quebec,127.5,Oct-2018
+177,Montréal,Quebec,131.7,Oct-2018
+178,Ottawa,Ontario,118.1,Oct-2018
+179,Toronto,Ontario,124.0,Oct-2018
+180,Thunder Bay,Ontario,142.3,Oct-2018
+181,Winnipeg,Manitoba,111.3,Oct-2018
+182,Regina,Saskatchewan,120.1,Oct-2018
+183,Saskatoon,Saskatchewan,122.4,Oct-2018
+184,Edmonton,Alberta,119.8,Oct-2018
+185,Calgary,Alberta,121.4,Oct-2018
+186,Vancouver,British Columbia,155.2,Oct-2018
+187,Victoria,British Columbia,148.3,Oct-2018
+188,Whitehorse,Yukon,144.7,Oct-2018
+189,Yellowknife,Northwest Territories,146.0,Oct-2018
+191,St. John's,Newfoundland and Labrador,118.6,Nov-2018
+192,Charlottetown and Summerside,Prince Edward Island,111.6,Nov-2018
+193,Halifax,Nova Scotia,108.0,Nov-2018
+194,Saint John,New Brunswick,113.4,Nov-2018
+195,Québec,Quebec,115.1,Nov-2018
+196,Montréal,Quebec,117.0,Nov-2018
+197,Ottawa,Ontario,106.4,Nov-2018
+198,Toronto,Ontario,111.7,Nov-2018
+199,Thunder Bay,Ontario,134.7,Nov-2018
+200,Winnipeg,Manitoba,102.4,Nov-2018
+201,Regina,Saskatchewan,109.4,Nov-2018
+202,Saskatoon,Saskatchewan,114.1,Nov-2018
+203,Edmonton,Alberta,105.7,Nov-2018
+204,Calgary,Alberta,108.3,Nov-2018
+205,Vancouver,British Columbia,141.9,Nov-2018
+206,Victoria,British Columbia,137.8,Nov-2018
+207,Whitehorse,Yukon,140.4,Nov-2018
+208,Yellowknife,Northwest Territories,140.4,Nov-2018
+210,St. John's,Newfoundland and Labrador,109.7,Dec-2018
+211,Charlottetown and Summerside,Prince Edward Island,103.5,Dec-2018
+212,Halifax,Nova Scotia,99.9,Dec-2018
+213,Saint John,New Brunswick,105.3,Dec-2018
+214,Québec,Quebec,108.7,Dec-2018
+215,Montréal,Quebec,112.5,Dec-2018
+216,Ottawa,Ontario,99.7,Dec-2018
+217,Toronto,Ontario,105.5,Dec-2018
+218,Thunder Bay,Ontario,124.5,Dec-2018
+219,Winnipeg,Manitoba,95.5,Dec-2018
+220,Regina,Saskatchewan,97.2,Dec-2018
+221,Saskatoon,Saskatchewan,101.4,Dec-2018
+222,Edmonton,Alberta,95.0,Dec-2018
+223,Calgary,Alberta,97.1,Dec-2018
+224,Vancouver,British Columbia,138.5,Dec-2018
+225,Victoria,British Columbia,132.5,Dec-2018
+226,Whitehorse,Yukon,124.9,Dec-2018
+227,Yellowknife,Northwest Territories,128.8,Dec-2018
+229,St. John's,Newfoundland and Labrador,107.3,Jan-2019
+230,Charlottetown and Summerside,Prince Edward Island,98.0,Jan-2019
+231,Halifax,Nova Scotia,99.0,Jan-2019
+232,Saint John,New Brunswick,102.1,Jan-2019
+233,Québec,Quebec,106.9,Jan-2019
+234,Montréal,Quebec,112.1,Jan-2019
+235,Ottawa,Ontario,96.5,Jan-2019
+236,Toronto,Ontario,102.4,Jan-2019
+237,Thunder Bay,Ontario,118.2,Jan-2019
+238,Winnipeg,Manitoba,89.9,Jan-2019
+239,Regina,Saskatchewan,91.8,Jan-2019
+240,Saskatoon,Saskatchewan,95.7,Jan-2019
+241,Edmonton,Alberta,91.8,Jan-2019
+242,Calgary,Alberta,95.2,Jan-2019
+243,Vancouver,British Columbia,132.0,Jan-2019
+244,Victoria,British Columbia,130.1,Jan-2019
+245,Whitehorse,Yukon,124.9,Jan-2019
+246,Yellowknife,Northwest Territories,119.7,Jan-2019
+248,St. John's,Newfoundland and Labrador,113.1,Feb-2019
+249,Charlottetown and Summerside,Prince Edward Island,99.8,Feb-2019
+250,Halifax,Nova Scotia,103.2,Feb-2019
+251,Saint John,New Brunswick,104.1,Feb-2019
+252,Québec,Quebec,107.2,Feb-2019
+253,Montréal,Quebec,113.6,Feb-2019
+254,Ottawa,Ontario,96.1,Feb-2019
+255,Toronto,Ontario,102.1,Feb-2019
+256,Thunder Bay,Ontario,116.7,Feb-2019
+257,Winnipeg,Manitoba,97.5,Feb-2019
+258,Regina,Saskatchewan,101.8,Feb-2019
+259,Saskatoon,Saskatchewan,101.0,Feb-2019
+260,Edmonton,Alberta,99.2,Feb-2019
+261,Calgary,Alberta,102.0,Feb-2019
+262,Vancouver,British Columbia,134.4,Feb-2019
+263,Victoria,British Columbia,126.7,Feb-2019
+264,Whitehorse,Yukon,124.9,Feb-2019
+265,Yellowknife,Northwest Territories,120.3,Feb-2019
+267,St. John's,Newfoundland and Labrador,122.8,Mar-2019
+268,Charlottetown and Summerside,Prince Edward Island,111.5,Mar-2019
+269,Halifax,Nova Scotia,116.6,Mar-2019
+270,Saint John,New Brunswick,114.6,Mar-2019
+271,Québec,Quebec,121.9,Mar-2019
+272,Montréal,Quebec,126.3,Mar-2019
+273,Ottawa,Ontario,110.9,Mar-2019
+274,Toronto,Ontario,115.8,Mar-2019
+275,Thunder Bay,Ontario,123.9,Mar-2019
+276,Winnipeg,Manitoba,108.4,Mar-2019
+277,Regina,Saskatchewan,111.2,Mar-2019
+278,Saskatoon,Saskatchewan,110.9,Mar-2019
+279,Edmonton,Alberta,110.2,Mar-2019
+280,Calgary,Alberta,113.6,Mar-2019
+281,Vancouver,British Columbia,149.6,Mar-2019
+282,Victoria,British Columbia,137.6,Mar-2019
+283,Whitehorse,Yukon,129.8,Mar-2019
+284,Yellowknife,Northwest Territories,125.6,Mar-2019
+286,St. John's,Newfoundland and Labrador,131.6,Apr-2019
+287,Charlottetown and Summerside,Prince Edward Island,125.8,Apr-2019
+288,Halifax,Nova Scotia,127.6,Apr-2019
+289,Saint John,New Brunswick,130.0,Apr-2019
+290,Québec,Quebec,130.6,Apr-2019
+291,Montréal,Quebec,136.0,Apr-2019
+292,Ottawa,Ontario,125.8,Apr-2019
+293,Toronto,Ontario,126.7,Apr-2019
+294,Thunder Bay,Ontario,140.2,Apr-2019
+295,Winnipeg,Manitoba,125.1,Apr-2019
+296,Regina,Saskatchewan,127.3,Apr-2019
+297,Saskatoon,Saskatchewan,127.8,Apr-2019
+298,Edmonton,Alberta,118.9,Apr-2019
+299,Calgary,Alberta,122.5,Apr-2019
+300,Vancouver,British Columbia,167.3,Apr-2019
+301,Victoria,British Columbia,157.5,Apr-2019
+302,Whitehorse,Yukon,137.9,Apr-2019
+303,Yellowknife,Northwest Territories,134.5,Apr-2019
+305,St. John's,Newfoundland and Labrador,131.1,May-2019
+306,Charlottetown and Summerside,Prince Edward Island,128.7,May-2019
+307,Halifax,Nova Scotia,125.8,May-2019
+308,Saint John,New Brunswick,130.3,May-2019
+309,Québec,Quebec,132.6,May-2019
+310,Montréal,Quebec,137.9,May-2019
+311,Ottawa,Ontario,127.8,May-2019
+312,Toronto,Ontario,127.7,May-2019
+313,Thunder Bay,Ontario,145.3,May-2019
+314,Winnipeg,Manitoba,122.6,May-2019
+315,Regina,Saskatchewan,123.7,May-2019
+316,Saskatoon,Saskatchewan,128.3,May-2019
+317,Edmonton,Alberta,117.8,May-2019
+318,Calgary,Alberta,120.7,May-2019
+319,Vancouver,British Columbia,169.0,May-2019
+320,Victoria,British Columbia,161.3,May-2019
+321,Whitehorse,Yukon,137.7,May-2019
+322,Yellowknife,Northwest Territories,142.7,May-2019
+324,St. John's,Newfoundland and Labrador,120.2,Jun-2019
+325,Charlottetown and Summerside,Prince Edward Island,116.2,Jun-2019
+326,Halifax,Nova Scotia,110.9,Jun-2019
+327,Saint John,New Brunswick,119.2,Jun-2019
+328,Québec,Quebec,122.2,Jun-2019
+329,Montréal,Quebec,128.5,Jun-2019
+330,Ottawa,Ontario,119.1,Jun-2019
+331,Toronto,Ontario,118.9,Jun-2019
+332,Thunder Bay,Ontario,139.9,Jun-2019
+333,Winnipeg,Manitoba,113.1,Jun-2019
+334,Regina,Saskatchewan,110.7,Jun-2019
+335,Saskatoon,Saskatchewan,121.5,Jun-2019
+336,Edmonton,Alberta,100.4,Jun-2019
+337,Calgary,Alberta,103.6,Jun-2019
+338,Vancouver,British Columbia,148.4,Jun-2019
+339,Victoria,British Columbia,146.5,Jun-2019
+340,Whitehorse,Yukon,137.7,Jun-2019
+341,Yellowknife,Northwest Territories,138.5,Jun-2019
+343,St. John's,Newfoundland and Labrador,128.3,Jul-2019
+344,Charlottetown and Summerside,Prince Edward Island,123.1,Jul-2019
+345,Halifax,Nova Scotia,119.9,Jul-2019
+346,Saint John,New Brunswick,124.0,Jul-2019
+347,Québec,Quebec,127.3,Jul-2019
+348,Montréal,Quebec,133.3,Jul-2019
+349,Ottawa,Ontario,125.4,Jul-2019
+350,Toronto,Ontario,125.3,Jul-2019
+351,Thunder Bay,Ontario,135.9,Jul-2019
+352,Winnipeg,Manitoba,114.7,Jul-2019
+353,Regina,Saskatchewan,115.1,Jul-2019
+354,Saskatoon,Saskatchewan,118.2,Jul-2019
+355,Edmonton,Alberta,105.4,Jul-2019
+356,Calgary,Alberta,108.4,Jul-2019
+357,Vancouver,British Columbia,151.5,Jul-2019
+358,Victoria,British Columbia,142.2,Jul-2019
+359,Whitehorse,Yukon,142.4,Jul-2019
+360,Yellowknife,Northwest Territories,134.4,Jul-2019
+362,St. John's,Newfoundland and Labrador,123.4,Aug-2019
+363,Charlottetown and Summerside,Prince Edward Island,116.7,Aug-2019
+364,Halifax,Nova Scotia,114.2,Aug-2019
+365,Saint John,New Brunswick,120.0,Aug-2019
+366,Québec,Quebec,118.6,Aug-2019
+367,Montréal,Quebec,125.1,Aug-2019
+368,Ottawa,Ontario,117.8,Aug-2019
+369,Toronto,Ontario,118.5,Aug-2019
+370,Thunder Bay,Ontario,133.7,Aug-2019
+371,Winnipeg,Manitoba,107.7,Aug-2019
+372,Regina,Saskatchewan,109.0,Aug-2019
+373,Saskatoon,Saskatchewan,110.6,Aug-2019
+374,Edmonton,Alberta,99.9,Aug-2019
+375,Calgary,Alberta,102.2,Aug-2019
+376,Vancouver,British Columbia,148.2,Aug-2019
+377,Victoria,British Columbia,136.1,Aug-2019
+378,Whitehorse,Yukon,142.9,Aug-2019
+379,Yellowknife,Northwest Territories,131.6,Aug-2019
+381,St. John's,Newfoundland and Labrador,121.4,Sep-2019
+382,Charlottetown and Summerside,Prince Edward Island,115.4,Sep-2019
+383,Halifax,Nova Scotia,112.5,Sep-2019
+384,Saint John,New Brunswick,117.8,Sep-2019
+385,Québec,Quebec,117.2,Sep-2019
+386,Montréal,Quebec,123.9,Sep-2019
+387,Ottawa,Ontario,116.2,Sep-2019
+388,Toronto,Ontario,116.7,Sep-2019
+389,Thunder Bay,Ontario,131.4,Sep-2019
+390,Winnipeg,Manitoba,108.2,Sep-2019
+391,Regina,Saskatchewan,108.2,Sep-2019
+392,Saskatoon,Saskatchewan,108.2,Sep-2019
+393,Edmonton,Alberta,99.3,Sep-2019
+394,Calgary,Alberta,102.1,Sep-2019
+395,Vancouver,British Columbia,153.6,Sep-2019
+396,Victoria,British Columbia,141.9,Sep-2019
+397,Whitehorse,Yukon,142.8,Sep-2019
+398,Yellowknife,Northwest Territories,133.5,Sep-2019
+400,St. John's,Newfoundland and Labrador,121.2,Oct-2019
+401,Charlottetown and Summerside,Prince Edward Island,114.5,Oct-2019
+402,Halifax,Nova Scotia,112.9,Oct-2019
+403,Saint John,New Brunswick,118.1,Oct-2019
+404,Québec,Quebec,115.2,Oct-2019
+405,Montréal,Quebec,123.6,Oct-2019
+406,Ottawa,Ontario,115.2,Oct-2019
+407,Toronto,Ontario,116.9,Oct-2019
+408,Thunder Bay,Ontario,130.7,Oct-2019
+409,Winnipeg,Manitoba,110.9,Oct-2019
+410,Regina,Saskatchewan,110.8,Oct-2019
+411,Saskatoon,Saskatchewan,109.9,Oct-2019
+412,Edmonton,Alberta,98.2,Oct-2019
+413,Calgary,Alberta,100.4,Oct-2019
+414,Vancouver,British Columbia,158.2,Oct-2019
+415,Victoria,British Columbia,150.7,Oct-2019
+416,Whitehorse,Yukon,142.9,Oct-2019
+417,Yellowknife,Northwest Territories,133.4,Oct-2019
+419,St. John's,Newfoundland and Labrador,122.0,Nov-2019
+420,Charlottetown and Summerside,Prince Edward Island,114.4,Nov-2019
+421,Halifax,Nova Scotia,113.7,Nov-2019
+422,Saint John,New Brunswick,118.9,Nov-2019
+423,Québec,Quebec,116.7,Nov-2019
+424,Montréal,Quebec,123.5,Nov-2019
+425,Ottawa,Ontario,113.6,Nov-2019
+426,Toronto,Ontario,116.4,Nov-2019
+427,Thunder Bay,Ontario,128.6,Nov-2019
+428,Winnipeg,Manitoba,107.0,Nov-2019
+429,Regina,Saskatchewan,108.7,Nov-2019
+430,Saskatoon,Saskatchewan,101.6,Nov-2019
+431,Edmonton,Alberta,95.1,Nov-2019
+432,Calgary,Alberta,97.9,Nov-2019
+433,Vancouver,British Columbia,140.5,Nov-2019
+434,Victoria,British Columbia,138.9,Nov-2019
+435,Whitehorse,Yukon,142.9,Nov-2019
+436,Yellowknife,Northwest Territories,132.1,Nov-2019
+438,St. John's,Newfoundland and Labrador,121.9,Dec-2019
+439,Charlottetown and Summerside,Prince Edward Island,113.7,Dec-2019
+440,Halifax,Nova Scotia,112.3,Dec-2019
+441,Saint John,New Brunswick,118.4,Dec-2019
+442,Québec,Quebec,116.4,Dec-2019
+443,Montréal,Quebec,123.5,Dec-2019
+444,Ottawa,Ontario,113.1,Dec-2019
+445,Toronto,Ontario,116.0,Dec-2019
+446,Thunder Bay,Ontario,127.9,Dec-2019
+447,Winnipeg,Manitoba,103.3,Dec-2019
+448,Regina,Saskatchewan,108.5,Dec-2019
+449,Saskatoon,Saskatchewan,107.2,Dec-2019
+450,Edmonton,Alberta,96.2,Dec-2019
+451,Calgary,Alberta,99.0,Dec-2019
+452,Vancouver,British Columbia,136.5,Dec-2019
+453,Victoria,British Columbia,132.4,Dec-2019
+454,Whitehorse,Yukon,142.7,Dec-2019
+455,Yellowknife,Northwest Territories,131.7,Dec-2019
+457,St. John's,Newfoundland and Labrador,123.6,Jan-2020
+458,Charlottetown and Summerside,Prince Edward Island,113.6,Jan-2020
+459,Halifax,Nova Scotia,112.4,Jan-2020
+460,Saint John,New Brunswick,117.8,Jan-2020
+461,Québec,Quebec,115.1,Jan-2020
+462,Montréal,Quebec,122.1,Jan-2020
+463,Ottawa,Ontario,111.6,Jan-2020
+464,Toronto,Ontario,114.6,Jan-2020
+465,Thunder Bay,Ontario,127.6,Jan-2020
+466,Winnipeg,Manitoba,101.6,Jan-2020
+467,Regina,Saskatchewan,109.8,Jan-2020
+468,Saskatoon,Saskatchewan,110.0,Jan-2020
+469,Edmonton,Alberta,98.8,Jan-2020
+470,Calgary,Alberta,101.6,Jan-2020
+471,Vancouver,British Columbia,139.9,Jan-2020
+472,Victoria,British Columbia,139.7,Jan-2020
+473,Whitehorse,Yukon,142.9,Jan-2020
+474,Yellowknife,Northwest Territories,129.7,Jan-2020
+476,St. John's,Newfoundland and Labrador,120.2,Feb-2020
+477,Charlottetown and Summerside,Prince Edward Island,111.0,Feb-2020
+478,Halifax,Nova Scotia,107.5,Feb-2020
+479,Saint John,New Brunswick,113.3,Feb-2020
+480,Québec,Quebec,113.4,Feb-2020
+481,Montréal,Quebec,120.1,Feb-2020
+482,Ottawa,Ontario,108.4,Feb-2020
+483,Toronto,Ontario,111.0,Feb-2020
+484,Thunder Bay,Ontario,126.0,Feb-2020
+485,Winnipeg,Manitoba,102.5,Feb-2020
+486,Regina,Saskatchewan,105.1,Feb-2020
+487,Saskatoon,Saskatchewan,107.1,Feb-2020
+488,Edmonton,Alberta,96.4,Feb-2020
+489,Calgary,Alberta,99.0,Feb-2020
+490,Vancouver,British Columbia,145.9,Feb-2020
+491,Victoria,British Columbia,143.2,Feb-2020
+492,Whitehorse,Yukon,142.5,Feb-2020
+493,Yellowknife,Northwest Territories,127.6,Feb-2020
+495,St. John's,Newfoundland and Labrador,101.4,Mar-2020
+496,Charlottetown and Summerside,Prince Edward Island,90.2,Mar-2020
+497,Halifax,Nova Scotia,85.4,Mar-2020
+498,Saint John,New Brunswick,95.4,Mar-2020
+499,Québec,Quebec,99.1,Mar-2020
+500,Montréal,Quebec,99.3,Mar-2020
+501,Ottawa,Ontario,84.3,Mar-2020
+502,Toronto,Ontario,86.1,Mar-2020
+503,Thunder Bay,Ontario,110.9,Mar-2020
+504,Winnipeg,Manitoba,84.5,Mar-2020
+505,Regina,Saskatchewan,88.4,Mar-2020
+506,Saskatoon,Saskatchewan,85.2,Mar-2020
+507,Edmonton,Alberta,77.0,Mar-2020
+508,Calgary,Alberta,79.2,Mar-2020
+509,Vancouver,British Columbia,121.4,Mar-2020
+510,Victoria,British Columbia,126.3,Mar-2020
+511,Whitehorse,Yukon,125.5,Mar-2020
+512,Yellowknife,Northwest Territories,112.4,Mar-2020
+514,St. John's,Newfoundland and Labrador,81.3,Apr-2020
+515,Charlottetown and Summerside,Prince Edward Island,73.6,Apr-2020
+516,Halifax,Nova Scotia,67.9,Apr-2020
+517,Saint John,New Brunswick,73.4,Apr-2020
+518,Québec,Quebec,81.1,Apr-2020
+519,Montréal,Quebec,85.5,Apr-2020
+520,Ottawa,Ontario,78.3,Apr-2020
+521,Toronto,Ontario,79.1,Apr-2020
+522,Thunder Bay,Ontario,84.9,Apr-2020
+523,Winnipeg,Manitoba,67.7,Apr-2020
+524,Regina,Saskatchewan,71.7,Apr-2020
+525,Saskatoon,Saskatchewan,65.6,Apr-2020
+526,Edmonton,Alberta,62.4,Apr-2020
+527,Calgary,Alberta,66.2,Apr-2020
+528,Vancouver,British Columbia,96.7,Apr-2020
+529,Victoria,British Columbia,99.4,Apr-2020
+530,Whitehorse,Yukon,100.9,Apr-2020
+531,Yellowknife,Northwest Territories,94.7,Apr-2020
+533,St. John's,Newfoundland and Labrador,91.5,May-2020
+534,Charlottetown and Summerside,Prince Edward Island,82.6,May-2020
+535,Halifax,Nova Scotia,78.2,May-2020
+536,Saint John,New Brunswick,82.8,May-2020
+537,Québec,Quebec,93.5,May-2020
+538,Montréal,Quebec,97.0,May-2020
+539,Ottawa,Ontario,90.7,May-2020
+540,Toronto,Ontario,91.2,May-2020
+541,Thunder Bay,Ontario,100.1,May-2020
+542,Winnipeg,Manitoba,85.2,May-2020
+543,Regina,Saskatchewan,87.9,May-2020
+544,Saskatoon,Saskatchewan,85.7,May-2020
+545,Edmonton,Alberta,83.3,May-2020
+546,Calgary,Alberta,87.2,May-2020
+547,Vancouver,British Columbia,113.0,May-2020
+548,Victoria,British Columbia,107.9,May-2020
+549,Whitehorse,Yukon,103.0,May-2020
+550,Yellowknife,Northwest Territories,96.7,May-2020
+552,St. John's,Newfoundland and Labrador,102.9,Jun-2020
+553,Charlottetown and Summerside,Prince Edward Island,94.8,Jun-2020
+554,Halifax,Nova Scotia,89.8,Jun-2020
+555,Saint John,New Brunswick,92.7,Jun-2020
+556,Québec,Quebec,103.8,Jun-2020
+557,Montréal,Quebec,105.6,Jun-2020
+558,Ottawa,Ontario,99.4,Jun-2020
+559,Toronto,Ontario,99.9,Jun-2020
+560,Thunder Bay,Ontario,111.8,Jun-2020
+561,Winnipeg,Manitoba,95.5,Jun-2020
+562,Regina,Saskatchewan,96.7,Jun-2020
+563,Saskatoon,Saskatchewan,96.5,Jun-2020
+564,Edmonton,Alberta,92.0,Jun-2020
+565,Calgary,Alberta,95.1,Jun-2020
+566,Vancouver,British Columbia,127.2,Jun-2020
+567,Victoria,British Columbia,123.2,Jun-2020
+568,Whitehorse,Yukon,115.3,Jun-2020
+569,Yellowknife,Northwest Territories,109.5,Jun-2020
+571,St. John's,Newfoundland and Labrador,107.2,Jul-2020
+572,Charlottetown and Summerside,Prince Edward Island,99.7,Jul-2020
+573,Halifax,Nova Scotia,96.1,Jul-2020
+574,Saint John,New Brunswick,98.2,Jul-2020
+575,Québec,Quebec,109.5,Jul-2020
+576,Montréal,Quebec,110.6,Jul-2020
+577,Ottawa,Ontario,103.7,Jul-2020
+578,Toronto,Ontario,104.3,Jul-2020
+579,Thunder Bay,Ontario,117.7,Jul-2020
+580,Winnipeg,Manitoba,99.9,Jul-2020
+581,Regina,Saskatchewan,102.4,Jul-2020
+582,Saskatoon,Saskatchewan,103.3,Jul-2020
+583,Edmonton,Alberta,95.0,Jul-2020
+584,Calgary,Alberta,97.4,Jul-2020
+585,Vancouver,British Columbia,131.4,Jul-2020
+586,Victoria,British Columbia,129.8,Jul-2020
+587,Whitehorse,Yukon,119.9,Jul-2020
+588,Yellowknife,Northwest Territories,115.0,Jul-2020
+590,St. John's,Newfoundland and Labrador,106.7,Aug-2020
+591,Charlottetown and Summerside,Prince Edward Island,99.5,Aug-2020
+592,Halifax,Nova Scotia,94.7,Aug-2020
+593,Saint John,New Brunswick,96.9,Aug-2020
+594,Québec,Quebec,108.3,Aug-2020
+595,Montréal,Quebec,109.3,Aug-2020
+596,Ottawa,Ontario,103.3,Aug-2020
+597,Toronto,Ontario,103.9,Aug-2020
+598,Thunder Bay,Ontario,116.2,Aug-2020
+599,Winnipeg,Manitoba,97.8,Aug-2020
+600,Regina,Saskatchewan,101.1,Aug-2020
+601,Saskatoon,Saskatchewan,102.0,Aug-2020
+602,Edmonton,Alberta,92.2,Aug-2020
+603,Calgary,Alberta,97.5,Aug-2020
+604,Vancouver,British Columbia,130.0,Aug-2020
+605,Victoria,British Columbia,127.9,Aug-2020
+606,Whitehorse,Yukon,119.9,Aug-2020
+607,Yellowknife,Northwest Territories,116.5,Aug-2020
+609,St. John's,Newfoundland and Labrador,106.6,Sep-2020
+610,Charlottetown and Summerside,Prince Edward Island,98.8,Sep-2020
+611,Halifax,Nova Scotia,94.2,Sep-2020
+612,Saint John,New Brunswick,97.0,Sep-2020
+613,Québec,Quebec,107.7,Sep-2020
+614,Montréal,Quebec,106.6,Sep-2020
+615,Ottawa,Ontario,101.1,Sep-2020
+616,Toronto,Ontario,101.8,Sep-2020
+617,Thunder Bay,Ontario,116.4,Sep-2020
+618,Winnipeg,Manitoba,96.7,Sep-2020
+619,Regina,Saskatchewan,102.8,Sep-2020
+620,Saskatoon,Saskatchewan,103.6,Sep-2020
+621,Edmonton,Alberta,98.8,Sep-2020
+622,Calgary,Alberta,104.9,Sep-2020
+623,Vancouver,British Columbia,125.9,Sep-2020
+624,Victoria,British Columbia,125.0,Sep-2020
+625,Whitehorse,Yukon,119.8,Sep-2020
+626,Yellowknife,Northwest Territories,117.2,Sep-2020
+628,St. John's,Newfoundland and Labrador,110.3,Oct-2020
+629,Charlottetown and Summerside,Prince Edward Island,99.6,Oct-2020
+630,Halifax,Nova Scotia,94.1,Oct-2020
+631,Saint John,New Brunswick,96.8,Oct-2020
+632,Québec,Quebec,101.1,Oct-2020
+633,Montréal,Quebec,105.4,Oct-2020
+634,Ottawa,Ontario,100.1,Oct-2020
+635,Toronto,Ontario,100.7,Oct-2020
+636,Thunder Bay,Ontario,116.0,Oct-2020
+637,Winnipeg,Manitoba,101.1,Oct-2020
+638,Regina,Saskatchewan,97.8,Oct-2020
+639,Saskatoon,Saskatchewan,102.0,Oct-2020
+640,Edmonton,Alberta,92.0,Oct-2020
+641,Calgary,Alberta,104.5,Oct-2020
+642,Vancouver,British Columbia,122.3,Oct-2020
+643,Victoria,British Columbia,121.6,Oct-2020
+644,Whitehorse,Yukon,119.9,Oct-2020
+645,Yellowknife,Northwest Territories,120.0,Oct-2020
+647,St. John's,Newfoundland and Labrador,112.0,Nov-2020
+648,Charlottetown and Summerside,Prince Edward Island,95.8,Nov-2020
+649,Halifax,Nova Scotia,91.0,Nov-2020
+650,Saint John,New Brunswick,94.3,Nov-2020
+651,Québec,Quebec,103.0,Nov-2020
+652,Montréal,Quebec,104.8,Nov-2020
+653,Ottawa,Ontario,98.7,Nov-2020
+654,Toronto,Ontario,99.3,Nov-2020
+655,Thunder Bay,Ontario,113.3,Nov-2020
+656,Winnipeg,Manitoba,95.9,Nov-2020
+657,Regina,Saskatchewan,98.4,Nov-2020
+658,Saskatoon,Saskatchewan,97.5,Nov-2020
+659,Edmonton,Alberta,90.2,Nov-2020
+660,Calgary,Alberta,103.7,Nov-2020
+661,Vancouver,British Columbia,123.6,Nov-2020
+662,Victoria,British Columbia,119.9,Nov-2020
+663,Whitehorse,Yukon,119.9,Nov-2020
+664,Yellowknife,Northwest Territories,118.9,Nov-2020
+666,St. John's,Newfoundland and Labrador,117.0,Dec-2020
+667,Charlottetown and Summerside,Prince Edward Island,101.5,Dec-2020
+668,Halifax,Nova Scotia,96.5,Dec-2020
+669,Saint John,New Brunswick,98.8,Dec-2020
+670,Québec,Quebec,107.2,Dec-2020
+671,Montréal,Quebec,108.7,Dec-2020
+672,Ottawa,Ontario,103.2,Dec-2020
+673,Toronto,Ontario,103.6,Dec-2020
+674,Thunder Bay,Ontario,114.6,Dec-2020
+675,Winnipeg,Manitoba,95.7,Dec-2020
+676,Regina,Saskatchewan,99.8,Dec-2020
+677,Saskatoon,Saskatchewan,100.0,Dec-2020
+678,Edmonton,Alberta,94.7,Dec-2020
+679,Calgary,Alberta,101.9,Dec-2020
+680,Vancouver,British Columbia,126.1,Dec-2020
+681,Victoria,British Columbia,120.3,Dec-2020
+682,Whitehorse,Yukon,119.9,Dec-2020
+683,Yellowknife,Northwest Territories,118.9,Dec-2020
+685,St. John's,Newfoundland and Labrador,124.8,Jan-2021
+686,Charlottetown and Summerside,Prince Edward Island,109.1,Jan-2021
+687,Halifax,Nova Scotia,107.5,Jan-2021
+688,Saint John,New Brunswick,106.1,Jan-2021
+689,Québec,Quebec,114.8,Jan-2021
+690,Montréal,Quebec,115.4,Jan-2021
+691,Ottawa,Ontario,110.9,Jan-2021
+692,Toronto,Ontario,110.9,Jan-2021
+693,Thunder Bay,Ontario,121.4,Jan-2021
+694,Winnipeg,Manitoba,102.9,Jan-2021
+695,Regina,Saskatchewan,104.1,Jan-2021
+696,Saskatoon,Saskatchewan,103.8,Jan-2021
+697,Edmonton,Alberta,100.9,Jan-2021
+698,Calgary,Alberta,102.8,Jan-2021
+699,Vancouver,British Columbia,134.6,Jan-2021
+700,Victoria,British Columbia,128.0,Jan-2021
+701,Whitehorse,Yukon,124.1,Jan-2021
+702,Yellowknife,Northwest Territories,121.4,Jan-2021
+704,St. John's,Newfoundland and Labrador,130.8,Feb-2021
+705,Charlottetown and Summerside,Prince Edward Island,115.3,Feb-2021
+706,Halifax,Nova Scotia,115.4,Feb-2021
+707,Saint John,New Brunswick,112.3,Feb-2021
+708,Québec,Quebec,121.1,Feb-2021
+709,Montréal,Quebec,122.5,Feb-2021
+710,Ottawa,Ontario,117.7,Feb-2021
+711,Toronto,Ontario,118.1,Feb-2021
+712,Thunder Bay,Ontario,125.3,Feb-2021
+713,Winnipeg,Manitoba,109.2,Feb-2021
+714,Regina,Saskatchewan,110.6,Feb-2021
+715,Saskatoon,Saskatchewan,110.3,Feb-2021
+716,Edmonton,Alberta,109.0,Feb-2021
+717,Calgary,Alberta,111.3,Feb-2021
+718,Vancouver,British Columbia,141.2,Feb-2021
+719,Victoria,British Columbia,137.6,Feb-2021
+720,Whitehorse,Yukon,127.1,Feb-2021
+721,Yellowknife,Northwest Territories,124.3,Feb-2021
+723,St. John's,Newfoundland and Labrador,141.6,Mar-2021
+724,Charlottetown and Summerside,Prince Edward Island,125.4,Mar-2021
+725,Halifax,Nova Scotia,125.0,Mar-2021
+726,Saint John,New Brunswick,123.1,Mar-2021
+727,Québec,Quebec,128.4,Mar-2021
+728,Montréal,Quebec,129.1,Mar-2021
+729,Ottawa,Ontario,123.1,Mar-2021
+730,Toronto,Ontario,123.8,Mar-2021
+731,Thunder Bay,Ontario,132.9,Mar-2021
+732,Winnipeg,Manitoba,115.9,Mar-2021
+733,Regina,Saskatchewan,120.4,Mar-2021
+734,Saskatoon,Saskatchewan,119.7,Mar-2021
+735,Edmonton,Alberta,114.5,Mar-2021
+736,Calgary,Alberta,117.3,Mar-2021
+737,Vancouver,British Columbia,149.6,Mar-2021
+738,Victoria,British Columbia,148.1,Mar-2021
+739,Whitehorse,Yukon,132.8,Mar-2021
+740,Yellowknife,Northwest Territories,130.4,Mar-2021
+742,St. John's,Newfoundland and Labrador,141.2,Apr-2021
+743,Charlottetown and Summerside,Prince Edward Island,126.2,Apr-2021
+744,Halifax,Nova Scotia,125.1,Apr-2021
+745,Saint John,New Brunswick,125.8,Apr-2021
+746,Québec,Quebec,128.7,Apr-2021
+747,Montréal,Quebec,128.5,Apr-2021
+748,Ottawa,Ontario,125.4,Apr-2021
+749,Toronto,Ontario,125.9,Apr-2021
+750,Thunder Bay,Ontario,138.5,Apr-2021
+751,Winnipeg,Manitoba,122.7,Apr-2021
+752,Regina,Saskatchewan,127.9,Apr-2021
+753,Saskatoon,Saskatchewan,126.5,Apr-2021
+754,Edmonton,Alberta,119.9,Apr-2021
+755,Calgary,Alberta,123.6,Apr-2021
+756,Vancouver,British Columbia,152.2,Apr-2021
+757,Victoria,British Columbia,148.3,Apr-2021
+758,Whitehorse,Yukon,139.8,Apr-2021
+759,Yellowknife,Northwest Territories,135.7,Apr-2021
+761,St. John's,Newfoundland and Labrador,143.5,May-2021
+762,Charlottetown and Summerside,Prince Edward Island,129.5,May-2021
+763,Halifax,Nova Scotia,127.6,May-2021
+764,Saint John,New Brunswick,128.7,May-2021
+765,Québec,Quebec,133.8,May-2021
+766,Montréal,Quebec,133.8,May-2021
+767,Ottawa,Ontario,129.9,May-2021
+768,Toronto,Ontario,130.2,May-2021
+769,Thunder Bay,Ontario,138.5,May-2021
+770,Winnipeg,Manitoba,127.8,May-2021
+771,Regina,Saskatchewan,127.0,May-2021
+772,Saskatoon,Saskatchewan,125.3,May-2021
+773,Edmonton,Alberta,123.4,May-2021
+774,Calgary,Alberta,127.3,May-2021
+775,Vancouver,British Columbia,155.6,May-2021
+776,Victoria,British Columbia,154.3,May-2021
+777,Whitehorse,Yukon,141.6,May-2021
+778,Yellowknife,Northwest Territories,140.9,May-2021
+780,St. John's,Newfoundland and Labrador,145.0,Jun-2021
+781,Charlottetown and Summerside,Prince Edward Island,130.9,Jun-2021
+782,Halifax,Nova Scotia,129.2,Jun-2021
+783,Saint John,New Brunswick,130.2,Jun-2021
+784,Québec,Quebec,134.7,Jun-2021
+785,Montréal,Quebec,136.4,Jun-2021
+786,Ottawa,Ontario,131.3,Jun-2021
+787,Toronto,Ontario,132.6,Jun-2021
+788,Thunder Bay,Ontario,140.0,Jun-2021
+789,Winnipeg,Manitoba,127.1,Jun-2021
+790,Regina,Saskatchewan,127.0,Jun-2021
+791,Saskatoon,Saskatchewan,126.5,Jun-2021
+792,Edmonton,Alberta,125.6,Jun-2021
+793,Calgary,Alberta,130.3,Jun-2021
+794,Vancouver,British Columbia,161.1,Jun-2021
+795,Victoria,British Columbia,155.2,Jun-2021
+796,Whitehorse,Yukon,144.9,Jun-2021
+797,Yellowknife,Northwest Territories,143.1,Jun-2021
+799,St. John's,Newfoundland and Labrador,153.4,Jul-2021
+800,Charlottetown and Summerside,Prince Edward Island,137.1,Jul-2021
+801,Halifax,Nova Scotia,135.4,Jul-2021
+802,Saint John,New Brunswick,135.8,Jul-2021
+803,Québec,Quebec,137.7,Jul-2021
+804,Montréal,Quebec,139.7,Jul-2021
+805,Ottawa,Ontario,134.7,Jul-2021
+806,Toronto,Ontario,136.4,Jul-2021
+807,Thunder Bay,Ontario,146.2,Jul-2021
+808,Winnipeg,Manitoba,131.5,Jul-2021
+809,Regina,Saskatchewan,131.8,Jul-2021
+810,Saskatoon,Saskatchewan,131.3,Jul-2021
+811,Edmonton,Alberta,133.0,Jul-2021
+812,Calgary,Alberta,135.6,Jul-2021
+813,Vancouver,British Columbia,169.1,Jul-2021
+814,Victoria,British Columbia,167.2,Jul-2021
+815,Whitehorse,Yukon,148.9,Jul-2021
+816,Yellowknife,Northwest Territories,147.6,Jul-2021
+818,St. John's,Newfoundland and Labrador,151.9,Aug-2021
+819,Charlottetown and Summerside,Prince Edward Island,136.7,Aug-2021
+820,Halifax,Nova Scotia,134.1,Aug-2021
+821,Saint John,New Brunswick,136.3,Aug-2021
+822,Québec,Quebec,139.9,Aug-2021
+823,Montréal,Quebec,141.2,Aug-2021
+824,Ottawa,Ontario,135.7,Aug-2021
+825,Toronto,Ontario,137.2,Aug-2021
+826,Thunder Bay,Ontario,146.7,Aug-2021
+827,Winnipeg,Manitoba,131.8,Aug-2021
+828,Regina,Saskatchewan,131.8,Aug-2021
+829,Saskatoon,Saskatchewan,131.3,Aug-2021
+830,Edmonton,Alberta,132.3,Aug-2021
+831,Calgary,Alberta,135.2,Aug-2021
+832,Vancouver,British Columbia,165.6,Aug-2021
+833,Victoria,British Columbia,163.1,Aug-2021
+834,Whitehorse,Yukon,154.6,Aug-2021
+835,Yellowknife,Northwest Territories,149.8,Aug-2021
+837,St. John's,Newfoundland and Labrador,153.8,Sep-2021
+838,Charlottetown and Summerside,Prince Edward Island,137.5,Sep-2021
+839,Halifax,Nova Scotia,135.1,Sep-2021
+840,Saint John,New Brunswick,137.7,Sep-2021
+841,Québec,Quebec,144.6,Sep-2021
+842,Montréal,Quebec,143.3,Sep-2021
+843,Ottawa,Ontario,136.3,Sep-2021
+844,Toronto,Ontario,137.9,Sep-2021
+845,Thunder Bay,Ontario,146.8,Sep-2021
+846,Winnipeg,Manitoba,131.8,Sep-2021
+847,Regina,Saskatchewan,131.8,Sep-2021
+848,Saskatoon,Saskatchewan,131.7,Sep-2021
+849,Edmonton,Alberta,129.5,Sep-2021
+850,Calgary,Alberta,133.1,Sep-2021
+851,Vancouver,British Columbia,156.7,Sep-2021
+852,Victoria,British Columbia,156.3,Sep-2021
+853,Whitehorse,Yukon,155.8,Sep-2021
+854,Yellowknife,Northwest Territories,149.9,Sep-2021
+856,St. John's,Newfoundland and Labrador,160.2,Oct-2021
+857,Charlottetown and Summerside,Prince Edward Island,143.9,Oct-2021
+858,Halifax,Nova Scotia,142.4,Oct-2021
+859,Saint John,New Brunswick,143.1,Oct-2021
+860,Québec,Quebec,150.6,Oct-2021
+861,Montréal,Quebec,151.6,Oct-2021
+862,Ottawa,Ontario,143.5,Oct-2021
+863,Toronto,Ontario,145.3,Oct-2021
+864,Thunder Bay,Ontario,153.7,Oct-2021
+865,Winnipeg,Manitoba,141.2,Oct-2021
+866,Regina,Saskatchewan,141.6,Oct-2021
+867,Saskatoon,Saskatchewan,141.3,Oct-2021
+868,Edmonton,Alberta,138.3,Oct-2021
+869,Calgary,Alberta,140.8,Oct-2021
+870,Vancouver,British Columbia,162.4,Oct-2021
+871,Victoria,British Columbia,160.9,Oct-2021
+872,Whitehorse,Yukon,155.9,Oct-2021
+873,Yellowknife,Northwest Territories,150.6,Oct-2021
+875,St. John's,Newfoundland and Labrador,159.1,Nov-2021
+876,Charlottetown and Summerside,Prince Edward Island,143.5,Nov-2021
+877,Halifax,Nova Scotia,140.8,Nov-2021
+878,Saint John,New Brunswick,146.0,Nov-2021
+879,Québec,Quebec,154.6,Nov-2021
+880,Montréal,Quebec,152.1,Nov-2021
+881,Ottawa,Ontario,142.6,Nov-2021
+882,Toronto,Ontario,144.3,Nov-2021
+883,Thunder Bay,Ontario,153.8,Nov-2021
+884,Winnipeg,Manitoba,138.7,Nov-2021
+885,Regina,Saskatchewan,143.4,Nov-2021
+886,Saskatoon,Saskatchewan,143.0,Nov-2021
+887,Edmonton,Alberta,136.0,Nov-2021
+888,Calgary,Alberta,141.9,Nov-2021
+889,Vancouver,British Columbia,159.8,Nov-2021
+890,Victoria,British Columbia,158.2,Nov-2021
+891,Whitehorse,Yukon,155.9,Nov-2021
+892,Yellowknife,Northwest Territories,152.8,Nov-2021
+894,St. John's,Newfoundland and Labrador,151.7,Dec-2021
+895,Charlottetown and Summerside,Prince Edward Island,134.6,Dec-2021
+896,Halifax,Nova Scotia,130.7,Dec-2021
+897,Saint John,New Brunswick,139.6,Dec-2021
+898,Québec,Quebec,149.8,Dec-2021
+899,Montréal,Quebec,148.3,Dec-2021
+900,Ottawa,Ontario,136.0,Dec-2021
+901,Toronto,Ontario,137.7,Dec-2021
+902,Thunder Bay,Ontario,143.8,Dec-2021
+903,Winnipeg,Manitoba,130.7,Dec-2021
+904,Regina,Saskatchewan,130.8,Dec-2021
+905,Saskatoon,Saskatchewan,129.7,Dec-2021
+906,Edmonton,Alberta,130.6,Dec-2021
+907,Calgary,Alberta,139.5,Dec-2021
+908,Vancouver,British Columbia,157.2,Dec-2021
+909,Victoria,British Columbia,152.6,Dec-2021
+910,Whitehorse,Yukon,155.9,Dec-2021
+911,Yellowknife,Northwest Territories,151.5,Dec-2021
+913,St. John's,Newfoundland and Labrador,159.2,Jan-2022
+914,Charlottetown and Summerside,Prince Edward Island,143.5,Jan-2022
+915,Halifax,Nova Scotia,141.4,Jan-2022
+916,Saint John,New Brunswick,142.2,Jan-2022
+917,Québec,Quebec,152.7,Jan-2022
+918,Montréal,Quebec,155.5,Jan-2022
+919,Ottawa,Ontario,144.3,Jan-2022
+920,Toronto,Ontario,146.1,Jan-2022
+921,Thunder Bay,Ontario,149.9,Jan-2022
+922,Winnipeg,Manitoba,138.5,Jan-2022
+923,Regina,Saskatchewan,137.0,Jan-2022
+924,Saskatoon,Saskatchewan,135.7,Jan-2022
+925,Edmonton,Alberta,133.7,Jan-2022
+926,Calgary,Alberta,138.9,Jan-2022
+927,Vancouver,British Columbia,170.5,Jan-2022
+928,Victoria,British Columbia,164.6,Jan-2022
+929,Whitehorse,Yukon,157.2,Jan-2022
+930,Yellowknife,Northwest Territories,151.5,Jan-2022
+932,St. John's,Newfoundland and Labrador,170.9,Feb-2022
+933,Charlottetown and Summerside,Prince Edward Island,154.8,Feb-2022
+934,Halifax,Nova Scotia,153.8,Feb-2022
+935,Saint John,New Brunswick,153.2,Feb-2022
+936,Québec,Quebec,164.5,Feb-2022
+937,Montréal,Quebec,166.6,Feb-2022
+938,Ottawa,Ontario,156.0,Feb-2022
+939,Toronto,Ontario,157.5,Feb-2022
+940,Thunder Bay,Ontario,157.5,Feb-2022
+941,Winnipeg,Manitoba,147.1,Feb-2022
+942,Regina,Saskatchewan,145.9,Feb-2022
+943,Saskatoon,Saskatchewan,145.7,Feb-2022
+944,Edmonton,Alberta,142.2,Feb-2022
+945,Calgary,Alberta,145.4,Feb-2022
+946,Vancouver,British Columbia,177.1,Feb-2022
+947,Victoria,British Columbia,170.1,Feb-2022
+948,Whitehorse,Yukon,164.5,Feb-2022
+949,Yellowknife,Northwest Territories,158.1,Feb-2022
+951,St. John's,Newfoundland and Labrador,187.8,Mar-2022
+952,Charlottetown and Summerside,Prince Edward Island,172.4,Mar-2022
+953,Halifax,Nova Scotia,171.1,Mar-2022
+954,Saint John,New Brunswick,169.6,Mar-2022
+955,Québec,Quebec,181.5,Mar-2022
+956,Montréal,Quebec,183.7,Mar-2022
+957,Ottawa,Ontario,172.0,Mar-2022
+958,Toronto,Ontario,173.0,Mar-2022
+959,Thunder Bay,Ontario,186.9,Mar-2022
+960,Winnipeg,Manitoba,169.8,Mar-2022
+961,Regina,Saskatchewan,168.5,Mar-2022
+962,Saskatoon,Saskatchewan,168.2,Mar-2022
+963,Edmonton,Alberta,161.7,Mar-2022
+964,Calgary,Alberta,164.7,Mar-2022
+965,Vancouver,British Columbia,198.3,Mar-2022
+966,Victoria,British Columbia,196.6,Mar-2022
+967,Whitehorse,Yukon,177.0,Mar-2022
+968,Yellowknife,Northwest Territories,175.6,Mar-2022
+970,St. John's,Newfoundland and Labrador,189.9,Apr-2022
+971,Charlottetown and Summerside,Prince Edward Island,171.0,Apr-2022
+972,Halifax,Nova Scotia,169.1,Apr-2022
+973,Saint John,New Brunswick,174.4,Apr-2022
+974,Québec,Quebec,180.8,Apr-2022
+975,Montréal,Quebec,181.2,Apr-2022
+976,Ottawa,Ontario,174.3,Apr-2022
+977,Toronto,Ontario,174.3,Apr-2022
+978,Thunder Bay,Ontario,187.9,Apr-2022
+979,Winnipeg,Manitoba,170.9,Apr-2022
+980,Regina,Saskatchewan,167.3,Apr-2022
+981,Saskatoon,Saskatchewan,167.2,Apr-2022
+982,Edmonton,Alberta,150.5,Apr-2022
+983,Calgary,Alberta,155.5,Apr-2022
+984,Vancouver,British Columbia,198.5,Apr-2022
+985,Victoria,British Columbia,194.1,Apr-2022
+986,Whitehorse,Yukon,182.8,Apr-2022
+987,Yellowknife,Northwest Territories,174.4,Apr-2022
+989,St. John's,Newfoundland and Labrador,215.5,May-2022
+990,Charlottetown and Summerside,Prince Edward Island,204.5,May-2022
+991,Halifax,Nova Scotia,195.8,May-2022
+992,Saint John,New Brunswick,194.2,May-2022
+993,Québec,Quebec,206.6,May-2022
+994,Montréal,Quebec,205.4,May-2022
+995,Ottawa,Ontario,198.0,May-2022
+996,Toronto,Ontario,198.0,May-2022
+997,Thunder Bay,Ontario,196.0,May-2022
+998,Winnipeg,Manitoba,183.1,May-2022
+999,Regina,Saskatchewan,181.4,May-2022
+1000,Saskatoon,Saskatchewan,181.5,May-2022
+1001,Edmonton,Alberta,163.3,May-2022
+1002,Calgary,Alberta,167.4,May-2022
+1003,Vancouver,British Columbia,220.1,May-2022
+1004,Victoria,British Columbia,217.4,May-2022
+1005,Whitehorse,Yukon,202.2,May-2022
+1006,Yellowknife,Northwest Territories,187.0,May-2022
+1008,St. John's,Newfoundland and Labrador,219.7,Jun-2022
+1009,Charlottetown and Summerside,Prince Edward Island,214.2,Jun-2022
+1010,Halifax,Nova Scotia,208.1,Jun-2022
+1011,Saint John,New Brunswick,210.6,Jun-2022
+1012,Québec,Quebec,219.7,Jun-2022
+1013,Montréal,Quebec,216.5,Jun-2022
+1014,Ottawa,Ontario,205.7,Jun-2022
+1015,Toronto,Ontario,205.9,Jun-2022
+1016,Thunder Bay,Ontario,214.4,Jun-2022
+1017,Winnipeg,Manitoba,205.3,Jun-2022
+1018,Regina,Saskatchewan,203.8,Jun-2022
+1019,Saskatoon,Saskatchewan,202.9,Jun-2022
+1020,Edmonton,Alberta,186.0,Jun-2022
+1021,Calgary,Alberta,189.5,Jun-2022
+1022,Vancouver,British Columbia,225.4,Jun-2022
+1023,Victoria,British Columbia,225.2,Jun-2022
+1024,Whitehorse,Yukon,217.1,Jun-2022
+1025,Yellowknife,Northwest Territories,208.1,Jun-2022
+1027,St. John's,Newfoundland and Labrador,200.4,Jul-2022
+1028,Charlottetown and Summerside,Prince Edward Island,195.5,Jul-2022
+1029,Halifax,Nova Scotia,187.1,Jul-2022
+1030,Saint John,New Brunswick,192.1,Jul-2022
+1031,Québec,Quebec,201.0,Jul-2022
+1032,Montréal,Quebec,196.8,Jul-2022
+1033,Ottawa,Ontario,180.4,Jul-2022
+1034,Toronto,Ontario,180.5,Jul-2022
+1035,Thunder Bay,Ontario,185.7,Jul-2022
+1036,Winnipeg,Manitoba,190.1,Jul-2022
+1037,Regina,Saskatchewan,191.4,Jul-2022
+1038,Saskatoon,Saskatchewan,186.5,Jul-2022
+1039,Edmonton,Alberta,179.1,Jul-2022
+1040,Calgary,Alberta,183.1,Jul-2022
+1041,Vancouver,British Columbia,202.4,Jul-2022
+1042,Victoria,British Columbia,203.0,Jul-2022
+1043,Whitehorse,Yukon,208.5,Jul-2022
+1044,Yellowknife,Northwest Territories,200.0,Jul-2022
+1046,St. John's,Newfoundland and Labrador,184.3,Aug-2022
+1047,Charlottetown and Summerside,Prince Edward Island,180.0,Aug-2022
+1048,Halifax,Nova Scotia,170.2,Aug-2022
+1049,Saint John,New Brunswick,177.1,Aug-2022
+1050,Québec,Quebec,186.8,Aug-2022
+1051,Montréal,Quebec,183.5,Aug-2022
+1052,Ottawa,Ontario,165.5,Aug-2022
+1053,Toronto,Ontario,165.6,Aug-2022
+1054,Thunder Bay,Ontario,164.3,Aug-2022
+1055,Winnipeg,Manitoba,169.9,Aug-2022
+1056,Regina,Saskatchewan,158.0,Aug-2022
+1057,Saskatoon,Saskatchewan,153.8,Aug-2022
+1058,Edmonton,Alberta,147.3,Aug-2022
+1059,Calgary,Alberta,153.0,Aug-2022
+1060,Vancouver,British Columbia,193.2,Aug-2022
+1061,Victoria,British Columbia,189.0,Aug-2022
+1062,Whitehorse,Yukon,186.6,Aug-2022
+1063,Yellowknife,Northwest Territories,177.1,Aug-2022
+1065,St. John's,Newfoundland and Labrador,166.8,Sep-2022
+1066,Charlottetown and Summerside,Prince Edward Island,163.7,Sep-2022
+1067,Halifax,Nova Scotia,153.5,Sep-2022
+1068,Saint John,New Brunswick,158.5,Sep-2022
+1069,Québec,Quebec,165.8,Sep-2022
+1070,Montréal,Quebec,160.8,Sep-2022
+1071,Ottawa,Ontario,148.7,Sep-2022
+1072,Toronto,Ontario,148.7,Sep-2022
+1073,Thunder Bay,Ontario,164.9,Sep-2022
+1074,Winnipeg,Manitoba,169.2,Sep-2022
+1075,Regina,Saskatchewan,158.1,Sep-2022
+1076,Saskatoon,Saskatchewan,155.0,Sep-2022
+1077,Edmonton,Alberta,136.8,Sep-2022
+1078,Calgary,Alberta,144.2,Sep-2022
+1079,Vancouver,British Columbia,205.7,Sep-2022
+1080,Victoria,British Columbia,196.5,Sep-2022
+1081,Whitehorse,Yukon,186.2,Sep-2022
+1082,Yellowknife,Northwest Territories,173.9,Sep-2022
+1084,St. John's,Newfoundland and Labrador,180.1,Oct-2022
+1085,Charlottetown and Summerside,Prince Edward Island,177.1,Oct-2022
+1086,Halifax,Nova Scotia,167.2,Oct-2022
+1087,Saint John,New Brunswick,168.9,Oct-2022
+1088,Québec,Quebec,176.3,Oct-2022
+1089,Montréal,Quebec,173.4,Oct-2022
+1090,Ottawa,Ontario,164.3,Oct-2022
+1091,Toronto,Ontario,164.3,Oct-2022
+1092,Thunder Bay,Ontario,185.4,Oct-2022
+1093,Winnipeg,Manitoba,184.3,Oct-2022
+1094,Regina,Saskatchewan,177.8,Oct-2022
+1095,Saskatoon,Saskatchewan,177.3,Oct-2022
+1096,Edmonton,Alberta,163.4,Oct-2022
+1097,Calgary,Alberta,167.1,Oct-2022
+1098,Vancouver,British Columbia,206.9,Oct-2022
+1099,Victoria,British Columbia,211.6,Oct-2022
+1100,Whitehorse,Yukon,199.9,Oct-2022
+1101,Yellowknife,Northwest Territories,180.2,Oct-2022
+1103,St. John's,Newfoundland and Labrador,181.2,Nov-2022
+1104,Charlottetown and Summerside,Prince Edward Island,177.0,Nov-2022
+1105,Halifax,Nova Scotia,170.2,Nov-2022
+1106,Saint John,New Brunswick,174.1,Nov-2022
+1107,Québec,Quebec,179.3,Nov-2022
+1108,Montréal,Quebec,173.3,Nov-2022
+1109,Ottawa,Ontario,161.5,Nov-2022
+1110,Toronto,Ontario,161.6,Nov-2022
+1111,Thunder Bay,Ontario,159.1,Nov-2022
+1112,Winnipeg,Manitoba,171.7,Nov-2022
+1113,Regina,Saskatchewan,162.3,Nov-2022
+1114,Saskatoon,Saskatchewan,157.1,Nov-2022
+1115,Edmonton,Alberta,148.1,Nov-2022
+1116,Calgary,Alberta,149.3,Nov-2022
+1117,Vancouver,British Columbia,183.5,Nov-2022
+1118,Victoria,British Columbia,185.7,Nov-2022
+1119,Whitehorse,Yukon,186.3,Nov-2022
+1120,Yellowknife,Northwest Territories,174.1,Nov-2022
+1122,St. John's,Newfoundland and Labrador,157.8,Dec-2022
+1123,Charlottetown and Summerside,Prince Edward Island,151.2,Dec-2022
+1124,Halifax,Nova Scotia,144.0,Dec-2022
+1125,Saint John,New Brunswick,149.5,Dec-2022
+1126,Québec,Quebec,157.4,Dec-2022
+1127,Montréal,Quebec,151.6,Dec-2022
+1128,Ottawa,Ontario,140.6,Dec-2022
+1129,Toronto,Ontario,140.7,Dec-2022
+1130,Thunder Bay,Ontario,140.1,Dec-2022
+1131,Winnipeg,Manitoba,150.8,Dec-2022
+1132,Regina,Saskatchewan,142.1,Dec-2022
+1133,Saskatoon,Saskatchewan,140.0,Dec-2022
+1134,Edmonton,Alberta,126.2,Dec-2022
+1135,Calgary,Alberta,124.2,Dec-2022
+1136,Vancouver,British Columbia,164.1,Dec-2022
+1137,Victoria,British Columbia,160.4,Dec-2022
+1138,Whitehorse,Yukon,174.5,Dec-2022
+1139,Yellowknife,Northwest Territories,158.7,Dec-2022
